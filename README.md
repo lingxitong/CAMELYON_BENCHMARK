@@ -2,7 +2,7 @@
 ## INTRODUCTION
 ### *why we do this work?*
 Multiple Instance Learning **_(MIL)_** methods are mainstream approaches for pathological image classification and analysis.
-The CAMELYON-16/17 datasets are commonly used to evaluate MIL methods. 
+The ***CAMELYON-16/17*** datasets are commonly used to evaluate ***MIL*** methods. 
 However, they have the following issues:
 * **_CAMELYON-16/17_** datasets contain some problematic slides
 * Pixel-annotations of **_CAMELYON-16/17_** test-dataset not accurate enough
