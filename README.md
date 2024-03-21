@@ -41,9 +41,8 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 * ***UPDATING...***
 
 ## FEATURE-ENCODER
-* ***RESNET50 (IMAGENT-PRETRAINED)*** [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) ***(CVPR 2016)*** 
-* ***TRANSPATH (WSI-PRETRAINED)*** [Unsupervised Contrastive Learning for WSI Classification](https://www.sciencedirect.com/science/article/pii/S1361841522002043) ***(MIA 2021)*** 
-* ***DINO (WSI-PRETRAINED)*** [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294) ***(ICCV 2021)***
+* ***VIT_S (IMAGENT-PRETRAINED)*** [Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) ***(ICLR 2021)*** 
+* ***PLIP(WSI-Contrastive-Learning)*** [A visual–language model for WSI using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3) ***(NAT MED 2023)***
 * ***PLIP(WSI-Contrastive-Learning)*** [A visual–language model for WSI using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3) ***(NAT MED 2023)***
 * ***UPDATING...***
 
@@ -56,7 +55,7 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
   
 ## RESULTS
 Benchmark test of different ***MIL*** methods
-### *resnet50-benchmark*
+### *vit_s-benchmark*
 
 <table>
   <tr>
@@ -196,7 +195,7 @@ Benchmark test of different ***MIL*** methods
 <table>
 
 
-### ***transpath-benchmark***
+### ***pilp-benchmark***
 <table>
   <tr>
     <th>MIL</th>
@@ -335,145 +334,8 @@ Benchmark test of different ***MIL*** methods
 <table>
 
 
-### ***dino-benchmark***
-<table>
-  <tr>
-    <th>MIL</th>
-    <th>PARAMS</th>
-    <th>ACC</th>
-    <th>B-ACC</th>
-    <th>AUC</th>
-    <th>RECALL</th>
-    <th>F1</th>
-    <th colspan="6">DOWNLOAD</th>
-  </tr>
-  <tr>
-    <td>MEAN</td>
-    <td style="text-align: center;">&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>MAX</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>AB</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>TRANS</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>DS</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>CLAM</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>WENO</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    <tr>
-    <td>DTFD</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    </tr>
-    <tr>
-    <td>IB</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    </tr>
-    <tr>
-    <td>MHIM</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    </tr>
-    <tr>
-    <td>RTT</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-    </tr>
-    <tr>
-    <td>WIKG</td>
-    <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td>0.00%</td>
-    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
-  </tr>
-  <table>
 
-### ***plip-benchmark***
+### ***uni-benchmark***
 <table>
   <tr>
     <th>MIL</th>
