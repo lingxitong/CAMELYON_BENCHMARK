@@ -64,6 +64,7 @@ Benchmark test of different ***MIL*** methods
     <th>ACC</th>
     <th>B-ACC</th>
     <th>AUC</th>
+    <th>PRE</th>
     <th>RECALL</th>
     <th>F1</th>
     <th colspan="6">DOWNLOAD</th>
@@ -71,6 +72,7 @@ Benchmark test of different ***MIL*** methods
   <tr>
     <td>MEAN</td>
     <td style="text-align: center;">&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -86,11 +88,35 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
+    <td>0.00%</td>
+    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
+  </tr>
+    <tr>
+    <td>RNN</td>
+    <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
     <td>AB</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td>0.00%</td>
+    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
+  </tr>
+    <tr>
+    <td>GATE_AB</td>
+    <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -106,11 +132,13 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
+    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
     <td>DS</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -126,6 +154,7 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
+    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
@@ -136,11 +165,13 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
+    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
     <td>DTFD</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -157,12 +188,14 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
+    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     </tr>
     <tr>
     <td>MHIM</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -179,12 +212,14 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
+    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     </tr>
     <tr>
     <td>WIKG</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
