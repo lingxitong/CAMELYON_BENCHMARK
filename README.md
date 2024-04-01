@@ -290,13 +290,11 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
-    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
     <td>CLAM</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -312,13 +310,11 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
-    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
     <td>DTFD</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
@@ -335,7 +331,6 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
-    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     </tr>
@@ -347,14 +342,12 @@ Benchmark test of different ***MIL*** methods
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
-    <td>0.00%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     </tr>
     <tr>
     <td>RTT</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
     <td>0.00%</td>
