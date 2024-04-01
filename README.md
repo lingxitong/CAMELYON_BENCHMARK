@@ -245,7 +245,6 @@ Benchmark test of different ***MIL*** methods
   <tr>
     <td>MEAN</td>
     <td style="text-align: center;">&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>81.95%</td>
     <td>73.37%</td>
     <td>76.70%</td>
@@ -256,7 +255,6 @@ Benchmark test of different ***MIL*** methods
     <tr>
     <td>MAX</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>70.81%</td>
     <td>77.26%</td>
     <td>77.48%</td>
@@ -267,7 +265,6 @@ Benchmark test of different ***MIL*** methods
     <tr>
     <td>TRANS</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>74.44%</td>
     <td>83.20%</td>
     <td>85.40%</td>
@@ -278,7 +275,6 @@ Benchmark test of different ***MIL*** methods
     <tr>
     <td>AB</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>83.28%</td>
     <td>82.76%</td>
     <td>84.88%</td>
@@ -370,7 +366,6 @@ Benchmark test of different ***MIL*** methods
     <tr>
     <td>WIKG</td>
     <td>&nbsp;&nbsp;&nbsp;00M</td>
-    <td>0.00%</td>
     <td>88.50%</td>
     <td>84.00%</td>
     <td>86.50%</td>
