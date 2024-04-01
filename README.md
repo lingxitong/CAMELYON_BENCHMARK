@@ -240,6 +240,7 @@ Benchmark test of different ***MIL*** methods
     <th>AUC</th>
     <th>RECALL</th>
     <th>F1</th>
+    <th>PRE</th>
     <th colspan="6">DOWNLOAD</th>
   </tr>
   <tr>
@@ -250,6 +251,7 @@ Benchmark test of different ***MIL*** methods
     <td>76.70%</td>
     <td>73.37%</td>
     <td>67.23%</td>
+    <td>67.52%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
@@ -260,6 +262,7 @@ Benchmark test of different ***MIL*** methods
     <td>77.48%</td>
     <td>77.26%</td>
     <td>64.30%</td>
+    <td>71.54%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
@@ -270,6 +273,7 @@ Benchmark test of different ***MIL*** methods
     <td>85.40%</td>
     <td>83.20%</td>
     <td>68.38%</td>
+    <td>73.11%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
@@ -280,6 +284,18 @@ Benchmark test of different ***MIL*** methods
     <td>84.88%</td>
     <td>82.76%</td>
     <td>72.19%</td>
+    <td>72.62%</td>
+    <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
+  </tr>
+    <tr>
+    <td>GATE-AB</td>
+    <td>&nbsp;&nbsp;&nbsp;00M</td>
+    <td>76.43%</td>
+    <td>83.18%</td>
+    <td>85.37%</td>
+    <td>83.18%</td>
+    <td>69.02%</td>
+    <td>72.62%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
     <tr>
@@ -364,6 +380,7 @@ Benchmark test of different ***MIL*** methods
     <td>86.50%</td>
     <td>84.00%</td>
     <td>75.67%</td>
+    <td>74.29%</td>
     <td><a href="https://github.com/lingxitong/CAMELYON_BENCHMARK/edit/main/README.md">&nbsp;pre-trained</a></td>
   </tr>
 <table>
