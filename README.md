@@ -32,7 +32,6 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 * ***TRANS_MIL*** [Transformer based Correlated Multiple Instance Learning for WSI Classification](https://arxiv.org/abs/2106.00908) ***(NeurIPS 2021)***
 * ***DS_MIL*** [Dual-stream MIL Network for WSI Classification with Self-supervised Contrastive Learning](https://arxiv.org/abs/2011.08939) ***(CVPR 2021)***
 * ***CLAM_MIL*** [Data Efficient and Weakly Supervised Computational Pathology on WSI](https://arxiv.org/abs/2004.09666) ***(NAT BIOMED ENG 2021)***
-* ***WENO_MIL*** [Bi-directional Weakly Supervised Knowledge Distillation for WSI Classification](https://arxiv.org/abs/2210.03664) ***(NeurIPS 2022)***
 * ***DTFD_MIL*** [Double-Tier Feature Distillation MIL for Histopathology WSI Classification](https://arxiv.org/abs/2203.12081) ***(CVPR 2022)***
 * ***RRT_MIL*** [Towards Foundation Model-Level Performance in Computational Pathology](https://arxiv.org/abs/2402.17228) ***(CVPR 2024)***
 * ***WIKG_MIL*** [Dynamic Graph Representation with Knowledge-aware Attention for WSI Analysis](https://arxiv.org/abs/2403.07719) ***(CVPR 2024)***
@@ -65,6 +64,6 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 |DS|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM-SB|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM_MB|mobilenet|3.3M|34.02|10.56|60|60|
-|MEAN|mobilenet|3.3M|34.02|10.56|60|60|
-|MEAN|mobilenet|3.3M|34.02|10.56|60|60|
-|MEAN|mobilenet|3.3M|34.02|10.56|60|60|
+|DTFD-MAXS|mobilenet|3.3M|34.02|10.56|60|60|
+|RRT|mobilenet|3.3M|34.02|10.56|60|60|
+|WIKG|mobilenet|3.3M|34.02|10.56|60|60|
