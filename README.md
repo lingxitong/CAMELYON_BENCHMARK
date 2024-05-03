@@ -53,7 +53,7 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 * Use uniform,balanced dataset-split
 
   
-## RESULTS(4 classes)
+## refine-CAMELYON-17 RESULTS(4 classes)
 Benchmark test of different ***MIL*** methods
 ### *vit_s-benchmark*
 
