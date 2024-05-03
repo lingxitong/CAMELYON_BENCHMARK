@@ -39,8 +39,8 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 
 ## FEATURE-ENCODER
 * ***VIT_S (IMAGENT-PRETRAINED)*** [Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) ***(ICLR 2021)*** 
-* ***PLIP(WSI-Contrastive-Learning)*** [A visual–language model for WSI using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3) ***(NAT MED 2023)***
-* ***UNI(WSI-PRETRAINED)*** [Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3) ***(NAT MED 2024)***
+* ***PLIP (WSI-Contrastive-Learning)*** [A visual–language model for WSI using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3) ***(NAT MED 2023)***
+* ***UNI (WSI-PRETRAINED)*** [Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3) ***(NAT MED 2024)***
 * ***UPDATING...***
 
   
