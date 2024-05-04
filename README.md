@@ -64,8 +64,6 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 |DS|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM-SB|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM_MB|mobilenet|3.3M|34.02|10.56|60|60|
-|DTFD-MAXS|mobilenet|3.3M|34.02|10.56|60|60|
-|DTFD-AFS|mobilenet|3.3M|34.02|10.56|60|60|
 |RRT|mobilenet|3.3M|34.02|10.56|60|60|
 |WIKG|mobilenet|3.3M|34.02|10.56|60|60|
 
@@ -81,8 +79,6 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 |DS|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM-SB|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM_MB|mobilenet|3.3M|34.02|10.56|60|60|
-|DTFD-MAXS|mobilenet|3.3M|34.02|10.56|60|60|
-|DTFD-AFS|mobilenet|3.3M|34.02|10.56|60|60|
 |RRT|mobilenet|3.3M|34.02|10.56|60|60|
 |WIKG|mobilenet|3.3M|34.02|10.56|60|60|
 
@@ -98,7 +94,5 @@ We do the following work to establish a ***CAMELYON-BENCHMARK***
 |DS|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM-SB|mobilenet|3.3M|34.02|10.56|60|60|
 |CLAM_MB|mobilenet|3.3M|34.02|10.56|60|60|
-|DTFD-MAXS|mobilenet|3.3M|34.02|10.56|60|60|
-|DTFD-AFS|mobilenet|3.3M|34.02|10.56|60|60|
 |RRT|mobilenet|3.3M|34.02|10.56|60|60|
 |WIKG|mobilenet|3.3M|34.02|10.56|60|60|
