@@ -1,4 +1,4 @@
-# CAMELYON_BENCHMARK
+# CAMELYON+ BENCHMARK
 ## INTRODUCTION
 ### *why we do this work?*
 Multiple Instance Learning **_(MIL)_** methods are mainstream approaches for pathological image classification and analysis.
